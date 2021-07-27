@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('database', 'session', 'auth');
+$autoload['libraries'] = array('database','session','pagination','xmlrpc','user_agent');
 
 /*
 | -------------------------------------------------------------------
@@ -89,7 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array('url', 'html',  'antonsofyan', 'datasource');
+$autoload['helper'] = array('url', 'file','form');
 
 /*
 | -------------------------------------------------------------------
@@ -103,7 +103,7 @@ $autoload['helper'] = array('url', 'html',  'antonsofyan', 'datasource');
 | config files.  Otherwise, leave it blank.
 |
 */
-$autoload['config'] = array('webmaster');
+$autoload['config'] = array();
 
 /*
 | -------------------------------------------------------------------
@@ -132,4 +132,4 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array('m_helper' => 'model');
+$autoload['model'] = array();

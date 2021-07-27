@@ -3,19 +3,17 @@
   display: inline-block;
   margin: 0;
   position: relative;
-  vertical-align: middle; 
-}
+  vertical-align: middle; }
   .select2-container .select2-selection--single {
     box-sizing: border-box;
     cursor: pointer;
     display: block;
-    height: 30px;
+    height: 28px;
     user-select: none;
-    -webkit-user-select: none; 
-  }
+    -webkit-user-select: none; }
     .select2-container .select2-selection--single .select2-selection__rendered {
       display: block;
-      padding-left: -2px;
+      padding-left: 8px;
       padding-right: 20px;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -52,6 +50,7 @@
 .select2-dropdown {
   background-color: white;
   border: 1px solid #aaa;
+  border-radius: 4px;
   box-sizing: border-box;
   display: block;
   position: absolute;
@@ -128,8 +127,8 @@
 
 .select2-container--default .select2-selection--single {
   background-color: #fff;
-  border: 1px solid #d2d6de;
-}
+  border: 1px solid #aaa;
+  border-radius: 4px; }
   .select2-container--default .select2-selection--single .select2-selection__rendered {
     color: #444;
     line-height: 28px; }
@@ -177,6 +176,7 @@
 .select2-container--default .select2-selection--multiple {
   background-color: white;
   border: 1px solid #aaa;
+  border-radius: 4px;
   cursor: text; }
   .select2-container--default .select2-selection--multiple .select2-selection__rendered {
     box-sizing: border-box;
@@ -199,6 +199,7 @@
   .select2-container--default .select2-selection--multiple .select2-selection__choice {
     background-color: #e4e4e4;
     border: 1px solid #aaa;
+    border-radius: 4px;
     cursor: default;
     float: left;
     margin-right: 5px;
@@ -298,6 +299,7 @@
 .select2-container--classic .select2-selection--single {
   background-color: #f7f7f7;
   border: 1px solid #aaa;
+  border-radius: 4px;
   outline: 0;
   background-image: -webkit-linear-gradient(top, white 50%, #eeeeee 100%);
   background-image: -o-linear-gradient(top, white 50%, #eeeeee 100%);
@@ -388,6 +390,7 @@
 .select2-container--classic .select2-selection--multiple {
   background-color: white;
   border: 1px solid #aaa;
+  border-radius: 4px;
   cursor: text;
   outline: 0; }
   .select2-container--classic .select2-selection--multiple:focus {
@@ -401,6 +404,7 @@
   .select2-container--classic .select2-selection--multiple .select2-selection__choice {
     background-color: #e4e4e4;
     border: 1px solid #aaa;
+    border-radius: 4px;
     cursor: default;
     float: left;
     margin-right: 5px;

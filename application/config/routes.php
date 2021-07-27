@@ -27,10 +27,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 | There are three reserved routes:
 |
-|	$route['default_controller'] = 'opening_speech';
+|	$route['default_controller'] = 'welcome';
 |
 | This route indicates which controller class should be loaded if the
-| URI contains no data. In the above example, the "opening_speech" class
+| URI contains no data. In the above example, the "welcome" class
 | would be loaded.
 |
 |	$route['404_override'] = 'errors/page_missing';
@@ -49,54 +49,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['hubungi-kami'] = 'public/contact_us';
-$route['hubungi-kami/save'] = 'public/contact_us/save';
-$route['read/(:num)/(:any)'] = 'public/readmore';
-$route['feed'] = 'public/feed';
-$route['sambutan-rektor'] = 'public/opening_speech';
-$route['sambutan-ketua'] = 'public/opening_speech';
-$route['sambutan-direktur'] = 'public/opening_speech';
-$route['sambutan-kepala-sekolah'] = 'public/opening_speech';
-$route['galeri-foto'] = 'public/gallery_photos';
-$route['galeri-video'] = 'public/gallery_videos';
-$route['kategori/(:any)'] = 'public/post_categories';
-$route['arsip/([0-9]{4})/([0-9]{2})'] = 'public/archives';
-$route['tag/(:any)'] = 'public/post_tags';
-$route['download/(:any)'] = 'public/download';
-$route['download/force_download/(:num)'] = 'public/download/force_download';
-$route['hasil-jajak-pendapat'] = 'public/pollings';
-$route['hasil-pencarian'] = 'public/search';
-$route['under-construction'] = 'public/under_construction';
-$route['login'] = 'login';
-$route['login/(:any)'] = 'login/verify';
-$route['logout'] = 'logout';
-$route['lost-password'] = 'lost_password';
-$route['lost-password/process'] = 'lost_password/process';
-$route['reset-password/(:any)'] = 'reset_password';
-$route['reset-password-process/(:any)'] = 'reset_password/process';
-
-$route['pendaftaran-alumni'] = 'public/alumni';
-$route['direktori-mahasiswa'] = 'public/student_directory';
-$route['direktori-peserta-didik'] = 'public/student_directory';
-$route['direktori-dosen-dan-staf'] = 'public/employee_directory';
-$route['direktori-guru-dan-tenaga-kependidikan'] = 'public/employee_directory';
-$route['direktori-alumni'] = 'public/alumni_directory';
-$route['subscribe'] = 'public/subscribe';
-$route['vote'] = 'public/pollings/save';
-
-$route['student-registration'] = 'public/admission_form/save';
-$route['admission-selection-results'] = 'public/admission_selection_results/get_results';
-// PPDB
-$route['formulir-penerimaan-peserta-didik-baru'] = 'public/admission_form';
-$route['hasil-seleksi-penerimaan-peserta-didik-baru'] = 'public/admission_selection_results';
-$route['cetak-formulir-penerimaan-peserta-didik-baru'] = 'public/print_admission_form';
-$route['download-formulir-penerimaan-peserta-didik-baru'] = 'public/blank_admission_form';
-// PMB
-$route['formulir-penerimaan-mahasiswa-baru'] = 'public/admission_form';
-$route['hasil-seleksi-penerimaan-mahasiswa-baru'] = 'public/admission_selection_results';
-$route['cetak-formulir-penerimaan-mahasiswa-baru'] = 'public/print_admission_form';
-$route['download-formulir-penerimaan-mahasiswa-baru'] = 'public/blank_admission_form';
-
 $route['default_controller'] = 'home';
+$route['administrator']='admin/login';
+$route['artikel']='blog';
+$route['artikel']='blog/index';
+$route['artikel/(:any)']='blog/detail/$1';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
