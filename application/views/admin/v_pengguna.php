@@ -264,7 +264,7 @@
                                             <input type="text" name="xusername" class="form-control" value="<?php echo $pengguna_username;?>" id="inputUserName" placeholder="Username" required>
                                         </div>
                                     </div>
-                                    <div class="form-group">
+                                    <!-- <div class="form-group">
                                         <label for="inputPassword3" class="col-sm-4 control-label">Password</label>
                                         <div class="col-sm-7">
                                             <input type="password" name="xpassword" class="form-control" id="inputPassword3" placeholder="Password">
@@ -275,7 +275,7 @@
                                         <div class="col-sm-7">
                                             <input type="password" name="xpassword2" class="form-control" id="inputPassword4" placeholder="Ulangi Password">
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="form-group">
                                         <label for="inputUserName" class="col-sm-4 control-label">Kontak Person</label>
                                         <div class="col-sm-7">
