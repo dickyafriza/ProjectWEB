@@ -27,6 +27,7 @@
 					<div class="col-md-4">
 						<a href="<?php echo base_url().'assets/images/'.$row->galeri_gambar;?>" class="img-pop-up">
 							<div class="single-gallery-image" style="background: url(<?php echo base_url().'assets/images/'.$row->galeri_gambar;?>);"></div>
+                              <p style="text-align: center;"><?php echo $row->galeri_judul;?></p> 
 						</a>
 					</div>
                     <?php endforeach;?>
