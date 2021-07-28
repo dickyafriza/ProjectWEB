@@ -8,7 +8,7 @@
                                     <p><span>Telp : +0821</span> | <span>Email : sdnurissmg@gmail.com</span></p>
                                 </div>
                                 <div class="text_wrap">
-                                    <p><a href="#"> <i class="ti-user"></i>  Login</a> <a href="#">Register</a></p>
+                                    <p><a href="http://localhost/sdnuris/administrator"> <i class="ti-user"></i>Login</a></p>
                                 </div>
                             </div>
                         </div>
