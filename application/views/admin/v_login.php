@@ -19,7 +19,8 @@
   <link href="<?php echo base_url('');?>admin/css/sb-admin-2.min.css" rel="stylesheet">
 
 </head>
-
+<style type="text/css">
+</style>
 <body class="bg-gradient-primary">
 
   <div class="container">
@@ -33,7 +34,8 @@
           <div class="card-body p-0">
             <!-- Nested Row within Card Body -->
             <div class="row">
-              <div class="col-lg-6 d-none d-lg-block bg-login-image"></div>
+              <div class="col-lg-6 d-none d-lg-block"> <img src="style/img/logosd.png" height="350px" width="300px" margin="20px"></div>
+        
               <div class="col-lg-6">
                 <div class="p-5">
                   <div class="text-center">
@@ -57,10 +59,8 @@
                     </div>
                     <button type="submit" class="btn btn-primary btn-block btn-flat">Login</button>
                     <hr>
-                   
                   </form>
                   <hr>
-                  
                 </div>
               </div>
             </div>
