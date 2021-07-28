@@ -17,11 +17,11 @@
                                 Dashboard
                             </h3>
                             <ul>
-                                <li><a href="<?php echo site_url();?>">Dashboard</a></li>
-                            <li><a href="<?php echo site_url('about');?>">Tentang Sekolah</a></li>
-                            <li><a href="<?php echo site_url('artikel');?>">Berita Sekolah</a></li>
-                            <li><a href="<?php echo site_url('galeri');?>">Galeri Sekolah</a></li>
-                            <li><a href="<?php echo site_url('contact');?>">Alamat Sekolah</a></li>
+                                <li><a href="<?php echo site_url();?>" style="color:antiquewhite">Dashboard</a></li>
+                            <li><a href="<?php echo site_url('about');?>" style="color:antiquewhite">Tentang Sekolah</a></li>
+                            <li><a href="<?php echo site_url('artikel');?>" style="color:antiquewhite">Berita Sekolah</a></li>
+                            <li><a href="<?php echo site_url('galeri');?>" style="color:antiquewhite">Galeri Sekolah</a></li>
+                            <li><a href="<?php echo site_url('contact');?>" style="color:antiquewhite">Alamat Sekolah</a></li>
                             </ul>
                         </div>
                     </div>
@@ -31,10 +31,10 @@
                                 Lainnya
                             </h3>
                             <ul>
-                                <li><a href="<?php echo site_url('guru');?>">Daftar Guru</a></li>
-                          <li><a href="<?php echo site_url('pengumuman');?>">Pengumuman</a></li>
-                          <li><a href="<?php echo site_url('agenda');?>">Agenda</a></li>
-                          <li><a href="<?php echo site_url('download');?>">Download File</a></li>
+                                <li><a href="<?php echo site_url('guru');?>" style="color:antiquewhite">Daftar Guru</a></li>
+                          <li><a href="<?php echo site_url('pengumuman');?>" style="color:antiquewhite">Pengumuman</a></li>
+                          <li><a href="<?php echo site_url('agenda');?>" style="color:antiquewhite">Agenda</a></li>
+                          <li><a href="<?php echo site_url('download');?>" style="color:antiquewhite">Download File</a></li>
                             </ul>
                         </div>
                     </div>
@@ -48,21 +48,21 @@
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
                                 
-                                <p>SD NURUL ISLAM PURWOYOSO</p>
+                                <p style="color:antiquewhite">SD NURUL ISLAM PURWOYOSO</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
                                 
-                                <p>Call : 082225431553 </p>
+                                <p style="color:antiquewhite">Call : 082225431553 </p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
                                 
-                                <p>sdinurulislampurwoyoso@gmail.com</p>
+                                <p style="color:antiquewhite">sdinurulislampurwoyoso@gmail.com</p>
                             </div>
                         </div>
                     
@@ -77,8 +77,8 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
-                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="https://sdnurissmg.com/" target="_blank">SD Nurul Islam Purwoyoso</a> </p>
+                            <p style="color:antiquewhite"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="https://sdnurissmg.com/" target="_blank" >SD Nurul Islam Purwoyoso</a> </p>
                         </p>
                     </div>
                 </div>
