@@ -39,7 +39,7 @@
                                                 
                                                 <li><a href="<?php echo site_url('download');?>">Download</a></li>
                                                 <li><a href="<?php echo site_url('blog');?>">Berita</a></li>
-                                                <li><a href="<?php echo site_url('video');?>">Video Belajar</a></li>
+                                                <li><a href="<?php echo site_url('video');?>">Video</a></li>
                                             </ul>
                                         </nav>
                                     </div>

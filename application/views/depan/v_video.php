@@ -20,8 +20,8 @@
                     <tr>
                       <th>No</th>
                         <th>Judul Video</th>
-                      <th>Kelas</th>
-                      <th>Mata Pelajaran</th>
+                      <!-- <th>Kelas</th>
+                      <th>Mata Pelajaran</th> -->
                       
                       <th>#</th>
                     </tr>
@@ -34,8 +34,8 @@
                     <tr>
                       <td><?php echo $no++;?></td>
                         <td><?php echo $row->judul_video;?></td>
-                      <td><?php echo $row->kelas_nama;?></td>
-                      <td><?php echo $row->nama_mapel;?></td>
+                      <!-- <td><?php echo $row->kelas_nama;?></td>
+                      <td><?php echo $row->nama_mapel;?></td> -->
                       
                       <td><a href="<?php echo site_url('video/lihat/'.$row->id_video);?>" class="btn btn-info">Lihat Video</a></td>
                     </tr>
