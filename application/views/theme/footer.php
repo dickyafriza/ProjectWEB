@@ -55,14 +55,14 @@
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
                                 
-                                <p>Call : 0821 </p>
+                                <p>Call : 082225431553 </p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
                                 
-                                <p>sdnurissmg@gmail.com</p>
+                                <p>sdinurulislampurwoyoso@gmail.com</p>
                             </div>
                         </div>
                     
