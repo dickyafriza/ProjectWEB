@@ -8,7 +8,7 @@
                             <h3 class="footer_title">
                                 Tentang Kami
                             </h3>
-                            <img width="150" src="<?php echo base_url('');?>style/img/tut-wuri-handayani-7759.png" class="rounded" alt="Muris Studio">
+                            <img width="150" src="<?php echo base_url('');?>style/img/SD.png" class="rounded" alt="SD NURUL ISLAM PURWOYOSO">
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -48,7 +48,7 @@
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
                                 
-                                <p>MURIS STUDIO</p>
+                                <p>SD NURUL ISLAM PURWOYOSO</p>
                             </div>
                         </div>
                         <div class="media contact-info">

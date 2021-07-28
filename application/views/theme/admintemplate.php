@@ -6,8 +6,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="MURIS STUDIO WEB SEKOLAH GRATIS PREMIUM">
-  <meta name="author" content="MURIS STUDIO">
+  <meta name="description" content="SD NURUL ISLAM PURWOYOSO WEB SEKOLAH GRATIS PREMIUM">
+  <meta name="author" content="SD NURUL ISLAM PURWOYOSO">
 
   <title><?php echo isset($breadcrumb) ? $breadcrumb : ''; ?></title>
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('');?>style/img/tut-wuri-handayani-7759-32x32.ico">

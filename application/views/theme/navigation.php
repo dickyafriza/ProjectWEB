@@ -6,10 +6,12 @@
                                 <div class="header_left">
                                     <div class="logo">
                                         <a href="<?php echo base_url('');?>">
-                                            <img src="<?php echo base_url('');?>style/img/sekolah-muris-web.png" alt="">
-                                        </a>
+                                            <img src="<?php echo base_url('');?>style/img/logo-sd.png" alt="">
+                                        </a>     
                                     </div>
+                                      
                                 </div>
+                                <li><a href="<?php echo base_url('');?>">SD NURUL ISLAM PURWOYOSO</a></li>
                                 <div class="header_right d-flex align-items-center">
                                     <div class="main-menu  d-none d-lg-block">
                                         <nav>
