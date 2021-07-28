@@ -20,7 +20,7 @@
 
 </head>
 
-<body class="bg-gradient]"style="background-color: #008000;">
+<body class="bg-gradient" style="background-color: #008000;">
 
   <div class="container">
 
@@ -55,7 +55,7 @@
                         <label class="custom-control-label" for="customCheck">Remember Me</label>
                       </div>
                     </div>
-                    <button type="submit" class="btn btn-primary btn-block btn-flat"style="background-color: #008000;">Login</button>
+                    <button type="submit" class="btn btn-primary btn-block btn-flat" style="background-color: #008000;">Login</button>
                     <hr>
                    
                   </form>
