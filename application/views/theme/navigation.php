@@ -12,7 +12,7 @@
                                     </div>
                                       
                                 </div>
-                                <li><a href="<?php echo base_url('');?>">SD NURUL ISLAM PURWOYOSO</a></li>
+                                
                                 <div class="header_right d-flex align-items-center">
                                     <div class="main-menu  d-none d-lg-block">
                                         <nav>

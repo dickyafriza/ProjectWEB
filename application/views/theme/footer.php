@@ -45,21 +45,21 @@
                             </h3>
                             
                         <div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-home"></i></span>
+                            <span class="contact-info__icon" ><i class="ti-home" style="color:antiquewhite"></i></span>
                             <div class="media-body">
                                 
                                 <p style="color:antiquewhite">SD NURUL ISLAM PURWOYOSO</p>
                             </div>
                         </div>
                         <div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+                            <span class="contact-info__icon"><i class="ti-tablet" style="color:antiquewhite"></i></span>
                             <div class="media-body">
                                 
                                 <p style="color:antiquewhite">Call : 082225431553 </p>
                             </div>
                         </div>
                         <div class="media contact-info">
-                            <span class="contact-info__icon"><i class="ti-email"></i></span>
+                            <span class="contact-info__icon"><i class="ti-email" style="color:antiquewhite"></i></span>
                             <div class="media-body">
                                 
                                 <p style="color:antiquewhite">sdinurulislampurwoyoso@gmail.com</p>
