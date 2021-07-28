@@ -55,14 +55,14 @@
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
                                 
-                                <p>Call : 0857 9969 6924</p>
+                                <p>Call : 0821 </p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
                                 
-                                <p>suryaciptainformatika@gmail.com</p>
+                                <p>sdnurissmg@gmail.com</p>
                             </div>
                         </div>
                     
@@ -78,7 +78,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="https://suryaciptainformatika.com/" target="_blank">Sekolah Teknologi Muris</a> </p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> <a href="https://sdnurissmg.com/" target="_blank">SD Nurul Islam Purwoyoso</a> </p>
                         </p>
                     </div>
                 </div>
