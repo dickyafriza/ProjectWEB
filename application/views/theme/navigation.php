@@ -7,7 +7,8 @@
                                     <div class="logo">
                                         <a href="<?php echo base_url('');?>">
                                             <img src="<?php echo base_url('');?>style/img/logo-sd.png" alt="">
-                                        </a>     
+                                        </a>
+     
                                     </div>
                                       
                                 </div>
