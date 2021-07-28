@@ -34,7 +34,7 @@
                                 <li><a href="<?php echo site_url('guru');?>" style="color:antiquewhite">Daftar Guru</a></li>
                           <li><a href="<?php echo site_url('pengumuman');?>" style="color:antiquewhite">Pengumuman</a></li>
                           <li><a href="<?php echo site_url('agenda');?>" style="color:antiquewhite">Agenda</a></li>
-                          <li><a href="<?php echo site_url('download');?>" style="color:antiquewhite">Download File</a></li>
+                          <!-- <li><a href="<?php echo site_url('download');?>" style="color:antiquewhite">Download File</a></li> -->
                             </ul>
                         </div>
                     </div>

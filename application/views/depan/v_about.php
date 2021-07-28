@@ -6,10 +6,9 @@
                 <div class="col-lg-14">
                     <div class="single_event d-flex align-items-center">
                         <div class="thumb">
-                            <img src="<?php echo base_url('');?>style/img/event/kepala-sekolah.jpg" alt="kepala sekolah">
-                            <div class="date text-center">
-                                <h4>02</h4>
-                                <span>Mei, 2020</span>
+                            <img src="<?php echo base_url('');?>style/img/logo.png" alt="kepala sekolah">
+                            <div>
+                                
                             </div>
                         </div>
                         <div class="event_details_info">

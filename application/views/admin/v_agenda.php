@@ -55,7 +55,7 @@
                        $agenda_selesai=$i['agenda_selesai'];
                        $agenda_tempat=$i['agenda_tempat'];
                        $agenda_waktu=$i['agenda_waktu'];
-                       $agenda_keterangan=$i['agenda_keterangan'];
+                  //     $agenda_keterangan=$i['agenda_keterangan'];
                        $agenda_author=$i['agenda_author'];
                        $tanggal=$i['tanggal'];
 
@@ -162,12 +162,12 @@
                                 </div>
                             </div>
 
-                            <div class="form-group">
+                            <!-- <div class="form-group">
                                 <label for="inputUserName" class="col-sm-4 control-label">Keterangan</label>
                                 <div class="col-sm-7">
                                   <textarea class="form-control" name="xketerangan" rows="2" placeholder="Keterangan ..."></textarea>
                                 </div>
-                            </div>
+                            </div> -->
 
                     </div>
                     <div class="modal-footer">
@@ -188,7 +188,7 @@
               $agenda_selesai=$i['agenda_selesai'];
               $agenda_tempat=$i['agenda_tempat'];
               $agenda_waktu=$i['agenda_waktu'];
-              $agenda_keterangan=$i['agenda_keterangan'];
+             // $agenda_keterangan=$i['agenda_keterangan'];
               $agenda_author=$i['agenda_author'];
               $tangal=$i['tanggal'];
             ?>
@@ -258,12 +258,12 @@
                                 </div>
                             </div>
 
-                            <div class="form-group">
+                            <!-- <div class="form-group">
                                 <label for="inputUserName" class="col-sm-4 control-label">Keterangan</label>
                                 <div class="col-sm-7">
                                   <textarea class="form-control" name="xketerangan" rows="2" placeholder="Keterangan ..."><?php echo $agenda_keterangan;?></textarea>
                                 </div>
-                            </div>
+                            </div> -->
 
                     </div>
                     <div class="modal-footer">
@@ -284,7 +284,7 @@
               $agenda_selesai=$i['agenda_selesai'];
               $agenda_tempat=$i['agenda_tempat'];
               $agenda_waktu=$i['agenda_waktu'];
-              $agenda_keterangan=$i['agenda_keterangan'];
+             // $agenda_keterangan=$i['agenda_keterangan'];
               $agenda_author=$i['agenda_author'];
               $tangal=$i['tanggal'];
             ?>
