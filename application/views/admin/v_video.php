@@ -36,8 +36,8 @@
                 <tr>
           					<th>#</th>
                     <th>Judul</th>
-          					<!-- <th>Kelas</th>
-          					<th>Mata Pelajaran</th> -->
+          					<th>Kelas</th>
+          					<th>Mata Pelajaran</th>
                             <th>Kode</th>
                             <th>Aksi</th>
                 </tr>
@@ -50,13 +50,15 @@
           					   $id_video=$i['id_video'];
                     $judul_video=$i['judul_video'];
           					   $kode_video=$i['kode_video'];
-          					  
+          					   $nama_mapel=$i['nama_mapel'];
+          					   $kelas_nama=$i['kelas_nama'];
 
                     ?>
                 <tr>
                   <td><?php echo $no;?></td>
                     <td><?php echo $judul_video;?></td>
-                    
+                    <td><?php echo $kelas_nama;?></td>
+                    <td><?php echo $nama_mapel;?></td>
                     <td><?php echo $kode_video;?></td>
                   <td>
                       
@@ -113,7 +115,7 @@
                                         </div>
                                     </div>
 
-                                    <!-- <div class="form-group">
+                                    <div class="form-group">
                                         <label for="inputUserName" class="col-sm-4 control-label">Kelas</label>
                                         <div class="col-sm-7">
 
@@ -131,9 +133,9 @@
                                               <?php endforeach;?>
                                           </select>
                                         </div>
-                                    </div> -->
+                                    </div>
                         
-                        <!-- <div class="form-group">
+                        <div class="form-group">
                                         <label for="inputUserName" class="col-sm-4 control-label">Mata Pelajaran</label>
                                         <div class="col-sm-7">
 
@@ -152,7 +154,7 @@
                                           </select>
                                         </div>
                                     </div>
-                         -->
+                        
                         <div class="form-group">
                                         <label for="inputUserName" class="col-sm-4 control-label">Kode Video</label>
                                         <div class="col-sm-7">
