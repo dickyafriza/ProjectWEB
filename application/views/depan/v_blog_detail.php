@@ -22,7 +22,6 @@
                      </ul>
                      <?php echo $blog;?>
                      
-                     
                   </div>
                </div>
                
