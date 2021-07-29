@@ -65,7 +65,28 @@
                                 <p style="color:antiquewhite">sdinurulislampurwoyoso@gmail.com</p>
                             </div>
                         </div>
-                    
+                         <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-facebook" style="color:antiquewhite"></i></span>
+                            <div class="media-body">
+                                
+                                <p style="color:antiquewhite">SD Nurul Islam Purwoyoso</p>
+                            </div>
+                        </div>
+                         <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-instagram" style="color:antiquewhite"></i></span>
+                            <div class="media-body">
+                                
+                                <p style="color:antiquewhite">SD Nurul Islam Purwoyoso</p>
+                            </div>
+                        </div>
+                        <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-youtube" style="color:antiquewhite"></i></span>
+                            <div class="media-body">
+                                
+                                <p style="color:antiquewhite">NURISSMARTOFFICIAL</p>
+                            </div>
+                        </div>
+
                         </div>
                     </div>
                 </div>
