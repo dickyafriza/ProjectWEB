@@ -43,19 +43,19 @@
                              <div class="text-center">
                         <h3 class="mb-45">MISI</h3>        
                     </div>   
-                            <p style="text-align: center;"> Menanamkan keyakinan / akidah sedini mungkin melalui pengamalan ajaran Islam secara kafah
+                            <p style="text-align: center;"> 1. Menanamkan keyakinan / akidah sedini mungkin melalui pengamalan ajaran Islam secara kafah
                             </p>
-                            <p style="text-align: center;"> Melaksanakan pembelajaran yang aktif, inovatif, kreatif dan menyenangkan  sehingga siswa berkembang secara optimal
+                            <p style="text-align: center;"> 2. Melaksanakan pembelajaran yang aktif, inovatif, kreatif dan menyenangkan  sehingga siswa berkembang secara optimal
                             </p>
-                            <p style="text-align: center;"> Mengembangkan pendidikan di bidang ilmu pengetahuan dan teknologi berbahasa Inggris, Arab, Indonesia dan bahasa Jawa serta Olah raga dan Seni Budaya sesuai bakat dan minat prestasi siswa 
+                            <p style="text-align: center;"> 3. Mengembangkan pendidikan di bidang ilmu pengetahuan dan teknologi berbahasa Inggris, Arab, Indonesia dan bahasa Jawa serta Olah raga dan Seni Budaya sesuai bakat dan minat prestasi siswa 
                             </p>
-                            <p style="text-align: center;"> Menjalin kerjasama yang harmonis antara warga 
+                            <p style="text-align: center;"> 4. Menjalin kerjasama yang harmonis antara warga 
                             </p>
    
-                            <p style="text-align: center;"> Menjalin kerjasama yang harmonis antara warga Sekolah dan lingkungan masyarakat 
+                            <p style="text-align: center;"> 5. Menjalin kerjasama yang harmonis antara warga Sekolah dan lingkungan masyarakat 
                             </p>
             
-                            <p style="text-align: center;"> Menumbuhkan semangat belajar sepanjang hayat
+                            <p style="text-align: center;"> 6. Menumbuhkan semangat belajar sepanjang hayat
                             </p>
                        </div>
         </div>
