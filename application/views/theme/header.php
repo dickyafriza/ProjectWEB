@@ -8,7 +8,7 @@
                                     <p><span>Telp : +0822 2543 1553</span> | <span>Email : sdinurulislampurwoyoso@gmail.com</span></p>
                                 </div>
                                 <div class="text_wrap">
-                                    <p><a href="http://localhost/sdnuris/administrator"> <i class="ti-user"></i>Login</a></p>
+                                    <!-- <p><a href="http://localhost/sdnuris/administrator"> <i class="ti-user"></i>Login</a></p> -->
                                 </div>
                             </div>
                         </div>
