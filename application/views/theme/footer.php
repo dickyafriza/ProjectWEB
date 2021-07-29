@@ -41,7 +41,7 @@
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="footer_widget">
                             <h3 class="footer_title">
-                                Kontak Kami
+                                Hubungi Kami
                             </h3>
                             
                         <div class="media contact-info">

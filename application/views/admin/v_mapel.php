@@ -25,7 +25,7 @@
             <div class="card-body">
                 
             <div class="box-header">
-              <a href="#" class="btn btn-success btn-flat" data-toggle="modal" data-target="#myModal"><span class="fa fa-plus"></span> Tambah Mapel</a>
+              <a href="#" class="btn btn-success btn-flat" data-toggle="modal" data-target="#myModal"><span class="fa fa-plus"></span> Tambah Kategori</a>
             </div>
                 
                 <br>
@@ -35,9 +35,9 @@
                 <thead>
                 <tr>
           					<th>#</th>
-          					<th>Nama Mapel</th>
+          					<th>Kategori Video</th>
           					<th>Keterangan</th>
-                            <th>Aksi</th>
+                            <th style="text-align: center;">Aksi</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -55,7 +55,7 @@
                   <td><?php echo $nama_mapel;?></td>
         				  <td><?php echo $keterangan_mapel;?></td>
                   
-                    <td style="text-align:right;">
+                    <td style="text-align:center;">
                       
                       <a href="#" class="btn btn-info btn-icon-split" data-toggle="modal" data-target="#ModalEdit<?php echo $mapel_id;?>">
                         <span class="icon text-white-50">
@@ -91,13 +91,13 @@
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><span class="fa fa-close"></span></span></button>
-                        <h4 class="modal-title" id="myModalLabel">Tambah Mapel</h4>
+                        <h4 class="modal-title" id="myModalLabel">Tambah kategori</h4>
                     </div>
                     <form class="form-horizontal" action="<?php echo base_url().'admin/mapel/simpan_mapel'?>" method="post" enctype="multipart/form-data">
                     <div class="modal-body">
 
                                     <div class="form-group">
-                                        <label for="inputUserName" class="col-sm-4 control-label">Nama Mapel</label>
+                                        <label for="inputUserName" class="col-sm-4 control-label">kategori</label>
                                         <div class="col-sm-7">
                                             <input type="text" name="namamapel" class="form-control" id="inputUserName" placeholder="Nama Mapel" required>
                                         </div>
@@ -136,8 +136,8 @@
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><span class="fa fa-close"></span></span></button>
-                        <h4 class="modal-title" id="myModalLabel">Edit Mapel</h4>
+                        <button type="button" class="close"  data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><span class="fa fa-close"></span></span></button>
+                        <h4 class="modal-title" id="myModalLabel">Edit</h4>
                     </div>
                     <form class="form-horizontal" action="<?php echo base_url().'admin/mapel/update_mapel'?>" method="post" enctype="multipart/form-data">
                     <div class="modal-body">
@@ -150,7 +150,7 @@
                                     </div>
 
                                     <div class="form-group">
-                                        <label for="inputUserName" class="col-sm-4 control-label">Album</label>
+                                        <label for="inputUserName" class="col-sm-4 control-label">Keterangan</label>
                                         <textarea class="form-control" name="keterangan"><?php echo $keterangan_mapel;?></textarea>
                                     </div>
 
@@ -179,12 +179,12 @@
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><span class="fa fa-close"></span></span></button>
-                        <h4 class="modal-title" id="myModalLabel">Hapus Mapel</h4>
+                        <h4 class="modal-title" id="myModalLabel">Hapus</h4>
                     </div>
                     <form class="form-horizontal" action="<?php echo base_url().'admin/mapel/hapus_mapel'?>" method="post" enctype="multipart/form-data">
                     <div class="modal-body">
 							       <input type="hidden" name="kode" value="<?php echo $mapel_id;?>"/>
-                            <p>Apakah Anda yakin mau menghapus Posting <b><?php echo $nama_mapel;?></b> ?</p>
+                            <p>Apakah Anda yakin mau menghapus kategori<b><?php echo $nama_mapel;?></b> ?</p>
 
                     </div>
                     <div class="modal-footer">

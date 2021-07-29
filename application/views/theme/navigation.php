@@ -23,7 +23,7 @@
                                                         <li><a href="<?php echo site_url('about');?>">Tentang</a></li>
                                                         
                                                         <li><a href="<?php echo site_url('guru');?>">Daftar Guru</a></li>
-                                                        <li><a href="<?php echo site_url('contact');?>">Kontak Kami</a></li>
+                                                        <li><a href="<?php echo site_url('contact');?>">Lokasi</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="#">Akademik <i class="ti-angle-down"></i></a>

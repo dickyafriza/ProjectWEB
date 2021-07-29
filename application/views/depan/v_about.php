@@ -32,12 +32,9 @@
             <br>
             <br>
             <div class="event_details_info">
-                            <div class="event_info">
-                                <a href="#">
-                                    <h4 style="text-align: center;" > VISI DAN MISI</h4>
-                                 </a>
-                              <br>
-                            </div>
+                             <div class="text-center">
+                        <h3 class="mb-45">VISI DAN MISI</h3>        
+                    </div>   
                             <p style="text-align: justify;"> SD Nurul Islam Purwoyoso merupakan lembaga pendidikan di bawah naungan Yaysan Ta’mir Masjid Nurul Islam Purwoyoso  bersama SMP Nurul Islam dan Taman kanak-kanak Nurul Islam. SD Nurul Islam awal mulanya adalah Madrasah Islamiyah (MI) NU yang didirikan masyarakat sekitar TK Nurul Islam. Dikarenakan para pendiri dari Madrasah Islamiyah (MI) NU tersebut meninggal dunia dan melihat perkembangan TK Nurul Islam, kemudian MI tersebut diserahkan kelembagaan dan pengelolaannya kepada Yayasan Ta’mir Masjid Nurul Islam. Lambat laun MI Nurul Islam berganti nama menjadi SD Nurul Islam dikarenakan pada saat itu masyarakat lebih memilih SD dibandingkan MI.
                                 SD Nurul Islam Purwoyoso berdiri pada tanggal 23 Mei 1996 merupakan salah satu sekolah swasta yang bernuansa islami di kota Semarang. Sekolah ini terletak di jalan Siliwangi No.574 Purwoyoso Kecamatan Ngaliyan Semarang yang dimulai pada tahun ajaran 1996/1997. Sebelum terjadi perluasan wilayah, SD Nurul Islam lebih dikenal dengan SD Nurul Islam Krapyak. Namun setelah terjadi perluasan, kini lebih dikenal dengan SD Nurul Islam.
                             </p>

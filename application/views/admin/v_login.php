@@ -58,8 +58,8 @@
                       </div>
                     </div>
                     <button type="submit" class="btn btn-primary btn-block btn-flat" style="background-color: #008000;">Login</button>
-                    <hr>
-                   
+                  
+                     <button href="<?php echo base_url('v_home');?>" class="btn btn-primary btn-block btn-flat" style="background-color: #008000;">Halaman Beranda</button>
                   </form>
                   <hr>
                   

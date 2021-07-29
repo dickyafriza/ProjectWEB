@@ -12,9 +12,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-12">
-                            <div class="slider_text ">
+                            <div>
                                 <h1 class="text-center text-white">SD NURUL ISLAM PURWOYOSO</h1>
-                                <h2 class="text-center text-white">Memajukan Dunia Pendidikan Menggunakan Teknologi </h2>
+                                <h2 class="text-center text-white">Memajukan Pendidikan yang Berakhlakulkarimah, Terampil dan Unggul Dalam Prestasi</h2>
                             </div>
                         </div>
                     </div>

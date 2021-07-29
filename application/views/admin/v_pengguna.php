@@ -81,12 +81,12 @@
                         <span class="text">Edit</span>
                       </a>
                       
-                      <a href="<?php echo base_url().'admin/pengguna/reset_password/'.$pengguna_id;?>" class="btn btn-info btn-icon-split">
+                      <!-- <a href="<?php echo base_url().'admin/pengguna/reset_password/'.$pengguna_id;?>" class="btn btn-info btn-icon-split">
                         <span class="icon text-white-50">
                           <i class="fas fa-fa-refresh"></i>
                         </span>
                         <span class="text">Reset</span>
-                      </a>
+                      </a> -->
                       
                       <a href="#" class="btn btn-danger btn-icon-split" data-toggle="modal" data-target="#ModalHapus<?php echo $pengguna_id;?>">
                         <span class="icon text-white-50">

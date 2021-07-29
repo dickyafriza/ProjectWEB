@@ -2,8 +2,10 @@
 <section class="contact-section">
             <div class="container">
                 <div class="d-none d-sm-block mb-5 pb-4">
-                    
-                                        
+                <div class="section_title text-center mb-70">
+                        <h3 class="mb-45">PETA LOKASI</h3>
+                        
+                    </div>                    
                     
                     <div class="row">
                     <div class="col-md-12">

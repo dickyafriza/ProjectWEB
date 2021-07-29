@@ -45,7 +45,7 @@
     <li class="nav-item">
         <a class="nav-link" href="<?php echo base_url().'admin/mapel'?>">
           <i class="fas fa-fw fa-address-book"></i>
-          <span>Data Mapel</span></a>
+          <span>Kategori Video</span></a>
       </li>
     <li class="nav-item">
         <a class="nav-link" href="<?php echo base_url().'admin/video'?>">
