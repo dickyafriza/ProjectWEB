@@ -1,17 +1,5 @@
 # website-sdnuris
 
-Lihat Video Halaman Depan Website: 
-https://www.youtube.com/watch?v=A6j3xerviDY
-
-Lihat Video Halaman Administrator Website : 
-https://www.youtube.com/watch?v=xXhypPN5D1I
-
-Lihat Cara Upload FIle website Sekolah Gratis Ke Cpanel :
-https://www.youtube.com/watch?v=NmfSDLreuFw
-
-Liat Video Cara Membuat Database Di CPANEL:
-https://www.youtube.com/watch?v=etnjtzjMtOk
-
 Fitur Website Halaman Depan :
 
 - Beranda
