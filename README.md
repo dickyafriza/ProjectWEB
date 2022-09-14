@@ -11,7 +11,7 @@ Fitur Website Halaman Depan :
 - Download File Belajar
 - Galeri Sekolah
 - Berita Sekolah
-- Video Interaktif Belajar Siswa (Fitur Unggulan)
+- Video Interaktif
 
 Fitur Website Halaman Administrator :
 
@@ -19,7 +19,6 @@ Fitur Website Halaman Administrator :
 - Tambah/Edit Guru
 - Tambah/Edit Agenda Sekolah
 - Tambah/Edit Pengumuman Sekolah
-- Tambah/Edit Files Download
 - Tambah/EditData Mata Pelajaran
 - Tambah/Edit Data Kelas
 - Tambah/Edit Data Video belajar
